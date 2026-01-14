@@ -98,7 +98,9 @@
 
 ![screenshots](./doc/partexp2.png)
 
+![screenshots](./doc/partexp3.png)
 
+![screenshots](./doc/partexp4.png)
 
 ## 使用与授权相关说明
  
